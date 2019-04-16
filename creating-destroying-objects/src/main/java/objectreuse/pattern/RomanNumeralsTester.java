@@ -1,4 +1,7 @@
-package objectreuse;
+package objectreuse.pattern;
+
+import objectreuse.pattern.RomanNumerals;
+import objectreuse.pattern.RomanNumerals_improved;
 
 public class RomanNumeralsTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package objectreuse;
+package objectreuse.pattern;
 
 // Performance can be greatly improved!
 public class RomanNumerals {

@@ -1,4 +1,4 @@
-package objectreuse;
+package objectreuse.pattern;
 
 import java.util.regex.Pattern;
 
